@@ -1,0 +1,53 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "descricao": "Smart TV",
+      "preco": "6000,00",
+      "categoria": "Eletrodomesticos",
+      "imagem": "Imagem de uma Smart TV"
+    },
+    {
+      "id": "2",
+      "descricao": "Smart Phone",
+      "preco": "3000,00",
+      "categoria": "Telefonia celular",
+      "imagem": "Imagem de um Smart Phone"
+    },
+    {
+      "id": "4",
+      "descricao": "Camisa Dudalina",
+      "preco": "400,00",
+      "categoria": "Vestuário",
+      "imagem": "Imagem de uma Camisa Dudalina"
+    },
+    {
+      "id": "5",
+      "descricao": "Smart TV",
+      "preco": "8000,00",
+      "categoria": "Eletrodomesticos",
+      "imagem": "Imagem de uma Smart TV"
+    },
+    {
+      "id": "6",
+      "descricao": "Smart Phone",
+      "preco": "4000,00",
+      "categoria": "Telefonia celular",
+      "imagem": "Imagem de um Smart Phone"
+    },
+    {
+      "id": "7",
+      "descricao": "Tênis Nike",
+      "preco": "700,00",
+      "categoria": "Calçados",
+      "imagem": "Imagem de um Tênis Nike"
+    },
+    {
+      "id": "8",
+      "descricao": "Camisa Dudalina Unissex",
+      "preco": "300,00",
+      "categoria": "Vestuário Unissex",
+      "imagem": "Imagem de uma Camisa Dudalina"
+    }
+  ]
+}
